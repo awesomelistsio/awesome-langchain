@@ -1,4 +1,4 @@
-# Awesome LangChain [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/awesomelistsio/awesome)
+# Awesome LangChain [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/brandonhimpfen/awesome-lists)
 
 [![GitHub Sponsors](https://srv-cdn.himpfen.io/badges/github/github-flat.svg)](https://github.com/sponsors/awesomelistsio) &nbsp; 
 [![Ko-Fi](https://srv-cdn.himpfen.io/badges/kofi/kofi-flat.svg)](https://ko-fi.com/awesomelists) &nbsp; 
@@ -78,11 +78,11 @@ LangChain is a powerful and extensible framework for building applications with 
 
 ## Related Awesome Lists
 
-- **[Awesome ChatGPT](https://github.com/awesomelistsio/awesome-chatgpt)**
-- **[Awesome Prompt Engineering](https://github.com/awesomelistsio/awesome-prompt-engineering)**
-- **[Awesome Generative AI](https://github.com/awesomelistsio/awesome-generative-ai)**
-- **[Awesome LLMOps](https://github.com/awesomelistsio/awesome-llmops)**
-- **[Awesome OpenAI](https://github.com/awesomelistsio/awesome-openai)**
+- **[Awesome ChatGPT](https://github.com/brandonhimpfen/awesome-chatgpt)**
+- **[Awesome Prompt Engineering](https://github.com/brandonhimpfen/awesome-prompt-engineering)**
+- **[Awesome Generative AI](https://github.com/brandonhimpfen/awesome-generative-ai)**
+- **[Awesome LLMOps](https://github.com/brandonhimpfen/awesome-llmops)**
+- **[Awesome OpenAI](https://github.com/brandonhimpfen/awesome-openai)**
 
 ## Contribute
 
